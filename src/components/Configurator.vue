@@ -115,7 +115,7 @@ export default {
   },
 
   methods: {},
-};
+}; 
 </script>
 
 <style src="uppy/dist/uppy.css"></style>
