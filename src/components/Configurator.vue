@@ -36,7 +36,7 @@ export default {
   },
 
   components: {
-    PhotoBox,
+    PhotoGrid,
   },
 
   data() {
